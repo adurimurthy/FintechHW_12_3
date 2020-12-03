@@ -39,3 +39,26 @@ What solution does this company offer that their competitors do not or cannot of
 There are a lot of digital currency exchanges and trading platforms currently and newer one are getting created in large numbers. However, the main advantage of the solution offered by Coinbase is the security offered by using the two factor authentication and also the ability of the people to link bank accounts and debit cards to buy digital currencies. Most other competitors such as binance operate outside of United States there by exposing the users to additional geographical risk and also litigation risk as each country  may define the level of participation in the digital currency adoption. Coinbase is also widely known for it low cost commission starting as low as 0.99 cents.
 
 Source: 6 Best Free or Low-Cost Coinbase Alternatives for 2020 • Benzinga
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Some of the unique features of coinbase technology:
+1.	Use of layered security and no single point of failure: The technology is similar to AWS (Amazon web service) security feature where the password for the administrator account is secured with two factor token that is controlled by a second person. This prevents accidental and deliberate misuse of administrator privileges. 
+Source: How Coinbase Builds Secure Infrastructure To Store Bitcoin In The Cloud | by Brian Armstrong | The Coinbase Blog
+
+2.	Coinbase has some features for the technical developers where they can exhibit skills 
+Source: HackerRank
+3.	Reliability Engineering: “Help engineers design & keep their promises in production.”  
+Source: Reliability Engineering at Coinbase | by Niall O'Higgins | The Coinbase Blog
+
+
+Source: Eng and Security – The Coinbase Blog
+
+## Landscape:
+
+* What domain of the financial industry is the company in?
+The company is in the wealth management domain.
+
+* What have been the major trends and innovations of this domain over the last 5-10 years?
+In the last 51-0 Years 
+
+Source: Coinbase Wallet Adds Support for .crypto via Unstoppable Domains (aithority.com)
+
