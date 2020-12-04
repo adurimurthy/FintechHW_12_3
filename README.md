@@ -1,7 +1,11 @@
 # Case Study of a Fintech Company
 <br/>Name of the company : <b>Coinbase<b><br/>
-<br/>Image of the company shared with the public with the slogan:<br/>
-![Coinbase](https://www.coinbase.com/img/og-default.jpg)
+  <br/>
+<p align="center">
+    <a href="https://sulu.io/" target="_blank">
+        <img width="30%" src="https://www.coinbase.com/img/og-default.jpg" alt="Coinbase logo">
+    </a>
+</p>
 
 ## Overview and Origin 
 Coinbase is a popular company in the digital currency space and has been in existence since 2012. It allows investors and retail customers to easily buy and sell several of the world’s famous digital currencies also commonly called as crypto currencies such as Bitcoin, Ethereum, XRP and so on.
