@@ -60,11 +60,25 @@ Source: 6 Best Free or Low-Cost Coinbase Alternatives (https://www.benzinga.com/
 ### 🚀&nbsp; Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 #### 🚀&nbsp; Some of the unique features of coinbase technology:
+
+Some of the features mentioned below are part of the professional trading platform offered by Coinbase.
+
 1.	Use of layered security and no single point of failure: The technology is similar to AWS (Amazon web service) security feature where the password for the administrator account is secured with two factor token that is controlled by a second person. This prevents accidental and deliberate misuse of administrator privileges. 
 Source: How Coinbase Builds Secure Infrastructure To Store Bitcoin In The Cloud | by Brian Armstrong | The Coinbase Blog (https://blog.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-30a6504e40ba)
 
 2.	Coinbase has some features for the technical developers where they can exhibit skills. For Professional traders, coinbase has an exhaustive list of features including APIs that can be leveraged to build integrations from banks, other trading platforms.
 
+3. Matching Engine : Coinbase Pro operates a continuous first-come, first-serve order book. Orders are executed in price-time priority as received by the matching engine.
+
+4. Self Trading Preventtion: Self-trading is not allowed on Coinbase Pro. Two orders from the same user will not fill one another. When placing an order, you can specify the self-trade prevention behavior.
+
+5. Price Improvement
+   Orders are matched against existing order book orders at the price of the order on the book, not at the price of the taker order.
+
+EXAMPLE
+User A places a Buy order for 1 BTC at 100 USD. User B then wishes to sell 1 BTC at 80 USD. Because User A's order was first to the trading engine, they will have price priority and the trade will occur at 100 USD.
+
+Source: Self Trade Prevention : (https://docs.pro.coinbase.com/#self-trade-prevention)
 Source : Professional Vesion of Coinbase at (https://docs.pro.coinbase.com/#introduction)
 Source: HackerRank(https://www.hackerrank.com/test/gjeks8kc9gs/26986b830dcf94c596feecebfc792ad4)
 
