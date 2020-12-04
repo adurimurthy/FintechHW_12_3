@@ -1,6 +1,5 @@
-# FintechHW_12_3
-<br/>#Case Study of a Fintech Company.<br/>
-<br/>Name of the company : Coinbase<br/>
+# Case Study of a Fintech Company
+<br/>Name of the company : <b>Coinbase<b><br/>
 <br/>Main Image of the Company:<br/>
 ![Coinbase](https://www.coinbase.com/img/og-default.jpg)
 
