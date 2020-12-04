@@ -1,6 +1,6 @@
 # Case Study of a Fintech Company
 <br/>Name of the company : <b>Coinbase<b><br/>
-<br/>Main Image of the Company:<br/>
+<br/>Image of the company shared with the public with the slogan:<br/>
 ![Coinbase](https://www.coinbase.com/img/og-default.jpg)
 
 ## Overview and Origin 
