@@ -101,3 +101,5 @@ In the last 5 to 10 years there have been many changes in the domain of wealth m
 Some of the trends in the crypto currencies can be found at (https://www.ersj.eu/dmdocuments/2018_XXI_3_34.pdf)
 
 Source:  (https://aithority.com/technology/blockchain/coinbase-wallet-adds-support-for-crypto-via-unstoppable-domains/)
+
+#### Contribution by Murthy Aduri, FINTECH BootCamp Student at UNCC.
