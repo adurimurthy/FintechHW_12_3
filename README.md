@@ -1,10 +1,14 @@
 # FintechHW_12_3
-#Case Study of a Fintech Company
+<br/>#Case Study of a Fintech Company.<br/>
+<br/>Name of the company : Coinbase<br/>
+<br/>Main Image of the Company:<br/>
+![Coinbase](https://www.coinbase.com/img/og-default.jpg)
 
 ## Overview and Origin 
 Coinbase is a popular company in the digital currency space and has been in existence since 2012. It allows investors and retail customers to easily buy and sell several of the world’s famous digital currencies also commonly called as crypto currencies such as Bitcoin, Ethereum, XRP and so on.
 
-* Name of company : Coinbase
+
+
 
 * When was the company incorporated? 
 June,2012 
@@ -44,7 +48,9 @@ Some of the unique features of coinbase technology:
 1.	Use of layered security and no single point of failure: The technology is similar to AWS (Amazon web service) security feature where the password for the administrator account is secured with two factor token that is controlled by a second person. This prevents accidental and deliberate misuse of administrator privileges. 
 Source: How Coinbase Builds Secure Infrastructure To Store Bitcoin In The Cloud | by Brian Armstrong | The Coinbase Blog
 
-2.	Coinbase has some features for the technical developers where they can exhibit skills 
+2.	Coinbase has some features for the technical developers where they can exhibit skills. For Professional traders, coinbase has an exhaustive list of features including APIs that can be leveraged to build integrations from banks, other trading platforms.
+
+Source : https://docs.pro.coinbase.com/#introduction
 Source: HackerRank
 3.	Reliability Engineering: “Help engineers design & keep their promises in production.”  
 Source: Reliability Engineering at Coinbase | by Niall O'Higgins | The Coinbase Blog
@@ -55,10 +61,10 @@ Source: Eng and Security – The Coinbase Blog
 ## Landscape:
 
 * What domain of the financial industry is the company in?
-The company is in the wealth management domain.
+  The company is in the wealth management domain.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
-In the last 51-0 Years 
+In the last 
 
 Source: Coinbase Wallet Adds Support for .crypto via Unstoppable Domains (aithority.com)
 
