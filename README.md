@@ -102,4 +102,4 @@ Some of the trends in the crypto currencies can be found at (https://www.ersj.eu
 
 Source:  (https://aithority.com/technology/blockchain/coinbase-wallet-adds-support-for-crypto-via-unstoppable-domains/)
 
-#### Contribution by Murthy Aduri, FINTECH BootCamp Student at UNCC.
+#### Contribution by Murthy Aduri, FINTECH BootCamp Student at UNCC
