@@ -18,8 +18,9 @@ Source: About Us- Coinbase (https://www.coinbase.com/about)
 Brian Armstrong and Fred Ehrsam
 
 ### 🚀&nbsp; How did the idea for the company (or project) come about? 
-To enable the easy transactions of trading digital currencies and also provide a platform / exchange for the digital currency trading called as Global Digital Asset Exchange(GDAX). 
+To enable the easy transactions of trading digital currencies and also provide a platform / exchange for the digital currency trading called as Global Digital Asset Exchange(GDAX). Today, Coinbase offers a variety of services including the top 50 crypto currencies traded at (https://www.coinbase.com/price)
 Source: Coinbase - Wikipedia![](https://en.wikipedia.org/wiki/Coinbase)
+
 ### 🚀&nbsp; How is the company funded? How much funding have they received?
 The following is the sequence of funding received by Coinbase since its inception in 2012 as part of a incubator program:
 
@@ -95,7 +96,8 @@ Source: Eng and Security – The Coinbase Blog(https://blog.coinbase.com/reliabi
 
 #### What have been the major trends and innovations of this domain over the last 5-10 years?
 
-In the last 5 to 10 years there have been many changes in the domain of wealth management. Several companies in the US and all over the globe have started offering the trading of several crypto currencies. The world also saw the wider acceptance of digital currencies in several parts of the globe such as hotels, restaraunts, travel websites and so on. 
+In the last 5 to 10 years there have been many changes in the domain of wealth management. Several companies in the US and all over the globe have started offering the trading of several crypto currencies. The world also saw the wider acceptance of digital currencies in several parts of the globe such as hotels, restaraunts, travel websites and so on.
+Some of the trends in the crypto currencies can be found at (https://www.ersj.eu/dmdocuments/2018_XXI_3_34.pdf)
 
 Source:  (https://aithority.com/technology/blockchain/coinbase-wallet-adds-support-for-crypto-via-unstoppable-domains/)
 
