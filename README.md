@@ -74,12 +74,12 @@ Source: Reliability Engineering at Coinbase | by Niall O'Higgins | The Coinbase 
 
 Source: Eng and Security – The Coinbase Blog(https://blog.coinbase.com/reliability-engineering-at-coinbase-8b6956ba802f)
 
-### Landscape:
+### 🚀&nbsp; Landscape:
 
-#### What domain of the financial industry is the company in?
+#### 🚀&nbsp; What domain of the financial industry is the company in?
   The company is in the wealth management domain.
 
-#### What have been the major trends and innovations of this domain over the last 5-10 years?
+#### 🚀&nbsp; What have been the major trends and innovations of this domain over the last 5-10 years?
 
 In the last 5 to 10 years there have been many changes in the domain of wealth management. Several companies in the US and all over the globe have started offering the trading of several crypto currencies. The world also saw the wider acceptance of digital currencies in several parts of the globe such as hotels, restaraunts, travel websites and so on. 
 
