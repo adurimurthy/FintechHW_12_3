@@ -6,9 +6,6 @@
 ## Overview and Origin 
 Coinbase is a popular company in the digital currency space and has been in existence since 2012. It allows investors and retail customers to easily buy and sell several of the world’s famous digital currencies also commonly called as crypto currencies such as Bitcoin, Ethereum, XRP and so on.
 
-
-
-
 * When was the company incorporated? 
 June,2012 
 Source: About - Coinbase
@@ -63,7 +60,7 @@ Source: Eng and Security – The Coinbase Blog
   The company is in the wealth management domain.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
-In the last 
+In the last 5 to 10 years there have been many changes in the domain of wealth management. Several companies in the US and all over the globe have started offering the trading of several crypto currencies. The world also saw the wider acceptance of digital currencies in several parts of the globe such as hotels, restaraunts, travel websites and so on. 
 
 Source: Coinbase Wallet Adds Support for .crypto via Unstoppable Domains (aithority.com)
 
