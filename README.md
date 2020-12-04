@@ -10,8 +10,8 @@
 Coinbase is a popular company in the digital currency space and has been in existence since 2012. It allows investors and retail customers to easily buy and sell several of the world’s famous digital currencies also commonly called as crypto currencies such as Bitcoin, Ethereum, XRP and so on.
 
 ### When was the company incorporated? 
-June,2012
-Source:![About Us- Coinbase] (https://www.coinbase.com/about)
+June,2012<br /> 
+Source: About Us- Coinbase (https://www.coinbase.com/about)
 
 ### Who are the founders of the company? 
 
@@ -20,7 +20,7 @@ Brian Armstrong and Fred Ehrsam
 ### How did the idea for the company (or project) come about? 
 To enable the easy transactions of trading digital currencies and also provide a platform / exchange for the digital currency trading called as Global Digital Asset Exchange(GDAX). 
 Source: Coinbase - Wikipedia![](https://en.wikipedia.org/wiki/Coinbase)
-* How is the company funded? How much funding have they received?
+### How is the company funded? How much funding have they received?
 a.	 Ben Reeves owner of the website:  blockchain.info was one of the first to fund Coinbase though the exact amount is not available on the public domain
 
 b.	Coinbase was funded by several venture capitalists and other companies eventually. May 2013 : $5 Million USD in Series A by Fred Wilson from the venture capital firm Union Square Ventures.
