@@ -2,7 +2,6 @@
 <br/>Name of the company : <b>Coinbase<b><br/>
   <br/>
 <p align="center">
-    <a href="https://www.coinbase.com" target="_blank">
         <img width="30%" src="https://www.coinbase.com/img/og-default.jpg" alt="Coinbase logo">
     </a>
 </p>
