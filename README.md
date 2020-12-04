@@ -9,9 +9,10 @@
 ## Overview and Origin 
 Coinbase is a popular company in the digital currency space and has been in existence since 2012. It allows investors and retail customers to easily buy and sell several of the world’s famous digital currencies also commonly called as crypto currencies such as Bitcoin, Ethereum, XRP and so on.
 
-* When was the company incorporated? 
-June,2012 
-Source: About - Coinbase
+## When was the company incorporated? 
+<b>June,2012
+</b>
+Source:![About Us- Coinbase] (https://www.coinbase.com/about)
 
 * Who are the founders of the company? Brian Armstrong and Fred Ehrsam
 
