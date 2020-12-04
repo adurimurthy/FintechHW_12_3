@@ -1,5 +1,5 @@
 # Case Study of a Fintech Company
-<br/>Name of the company : <b>Coinbase<b><br/>
+## Name of the company : <b>Coinbase</b>
   <br/>
 <p align="center">
         <img width="30%" src="https://www.coinbase.com/img/og-default.jpg" alt="Coinbase logo">
