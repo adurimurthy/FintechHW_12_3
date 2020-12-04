@@ -12,7 +12,7 @@ Coinbase is a popular company in the digital currency space and has been in exis
 
 ### 🚀&nbsp;  When was the company incorporated? 
 June,2012<br /> 
-Source: About Us- Coinbase (https://www.coinbase.com/about){:target="_blank" rel="noopener"}
+Source: About Us- Coinbase (https://www.coinbase.com/about)
 
 ### 🚀&nbsp; Who are the founders of the company? 
 
